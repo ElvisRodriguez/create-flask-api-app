@@ -1,0 +1,8 @@
+# Folders
+create-flask-api-app.egg-info
+dist/
+
+# Files
+setup.cfg
+setup.py
+pyproject.toml

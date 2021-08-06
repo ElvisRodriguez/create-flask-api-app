@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: create-flask-app
-Version: 0.1
-Summary: Creates python flask application template
-Home-page: https://github.com/ElvisRodriguez/create-flask-app
+Name: create-flask-api-app
+Version: 0.0.1
+Summary: Creates python flask API application template
+Home-page: https://github.com/ElvisRodriguez/create-flask-api-app
 Author: Elvis Rodriguez
 Author-email: elvisrodriguez1992@gmail.com
 License: MIT
-Project-URL: Bug Tracker, https://github.com/ElvisRodriguez.create-flask-app/issues
+Project-URL: Bug Tracker, https://github.com/ElvisRodriguez.create-flask-api-app/issues
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
@@ -14,12 +14,13 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English
 Classifier: Operating System :: POSIX :: Linux
 Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: Implementation :: CPythonTopic :: Software Development :: Code Generators
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Code Generators
 Requires-Python: >=3
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# create-flask-app
+# create-flask-api-app
 
 ## PyPi package for creating python flask template
 
