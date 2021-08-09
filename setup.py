@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as file:
 
 setup(
     name="create-flask-api-app",
-    version="0.0.1",
+    version="0.0.2",
     description="Creates python flask API application template",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -18,7 +18,7 @@ setup(
         "Bug Tracker": "https://github.com/ElvisRodriguez.create-flask-api-app/issues",
     },
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
@@ -32,6 +32,7 @@ setup(
     python_requires=">=3",
     install_requires=[
         "flask",
+        "flask_restful",
         "SQLAlchemy"
     ],
 )
