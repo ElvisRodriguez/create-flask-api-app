@@ -1,9 +1,0 @@
-[build-system]
-requires = [
-    "flask",
-    "flask_restful",
-    "setuptools",
-    "SQLAlchemy",
-    "wheel"
-]
-build-backend = "setuptools.build_meta"
