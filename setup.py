@@ -35,4 +35,9 @@ setup(
         "flask_restful",
         "SQLAlchemy"
     ],
+    entry_points={
+        "console_scripts": [
+            "create-flask-api=create-flask-api-app.__main__:main",
+        ]
+    },
 )

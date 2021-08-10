@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: create-flask-api-app
-Version: 0.0.1
+Version: 0.0.2
 Summary: Creates python flask API application template
 Home-page: https://github.com/ElvisRodriguez/create-flask-api-app
 Author: Elvis Rodriguez
@@ -8,7 +8,7 @@ Author-email: elvisrodriguez1992@gmail.com
 License: MIT
 Project-URL: Bug Tracker, https://github.com/ElvisRodriguez.create-flask-api-app/issues
 Platform: UNKNOWN
-Classifier: Development Status :: 1 - Planning
+Classifier: Development Status :: 2 - Pre-Alpha
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English

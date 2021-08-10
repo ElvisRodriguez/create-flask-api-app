@@ -1,6 +1,6 @@
 # Folders
 create-flask-api-app.egg-info
-dist/
+dist
 
 # Files
 setup.cfg
