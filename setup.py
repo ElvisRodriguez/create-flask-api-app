@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as file:
 
 setup(
     name="create-flask-api-app",
-    version="0.0.2",
+    version="0.0.5",
     description="Creates python flask API application template",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -37,7 +37,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "create-flask-api=create-flask-api-app.__main__:main",
+            "create-flask-api=create_flask_api_app.__main__:main",
         ]
     },
 )

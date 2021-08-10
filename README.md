@@ -1,3 +1,18 @@
-# create-flask-api-app
+create-flask-api-app
+===
 
-## PyPi package for creating python flask template
+Command line tool to create a flask API template
+---
+---
+## Installation:
+
+```bash
+pip install create-flask-api-app -U
+```
+
+## Usage:
+
+```bash
+create-flask-api <project_name>
+```
+

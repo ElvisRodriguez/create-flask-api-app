@@ -1,1 +1,1 @@
-create-flask-api-app
+create_flask_api_app
