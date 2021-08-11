@@ -1,6 +1,7 @@
 # Folders
-*.egg-info
 dist
+*.egg-info
+__pycache__
 
 # Files
 setup.cfg
